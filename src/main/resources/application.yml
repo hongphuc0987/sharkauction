@@ -43,7 +43,7 @@ app:
     host: smtp.gmail.com
     port: 587
     username: ${EMAIL:sharkauctioncompany@gmail.com}
-    password: ${EMAIL_PASSWORD:egrs bppd slvo usxv}
+    password: ${EMAIL_PASSWORD}
     properties:
       mail:
         smtp:
